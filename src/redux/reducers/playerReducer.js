@@ -1,0 +1,1 @@
+export const SET_FETCH_RESULTS
